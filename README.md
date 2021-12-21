@@ -28,12 +28,11 @@ Election commission is responsable to create constitution or define areas, a uni
 
 ## Wrokflow
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+```seq
+Andrew->China: Says Hello 
+Note right of China: China thinks\nabout it 
+China-->Andrew: How are you? 
+Andrew->>China: I am good thanks!
 ```
 
 ## Contributes
