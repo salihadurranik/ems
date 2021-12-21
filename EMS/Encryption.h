@@ -3,10 +3,9 @@
 
 class Encryption {
   private:
-    string text;
   
   public:
-    Encryption (string str);
-    Encrypt();
-    Decrypt();
+    Encryption ();
+    string Encrypt(string text);
+    string Decrypt(string text);
 };
