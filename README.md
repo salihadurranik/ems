@@ -28,12 +28,7 @@ Election commission is responsable to create constitution or define areas, a uni
 
 ## Wrokflow
 
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
-```
+(Workflow here)
 
 ## Contributes
 
