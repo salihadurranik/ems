@@ -32,4 +32,7 @@ Election commission is responsable to create constitution or define areas, a uni
 
 ## Contributes
 
-(All Members)
+* Saliha Durrani
+* Aiman Jamil
+* Muhammad Ahmad
+* Zeeshan Ahmad Khan
