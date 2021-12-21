@@ -13,7 +13,15 @@ Election commission is responsable to create constitution or define areas, a uni
 
 ## Application Screens
 
-(Application screens)
+* User will login, based on role the following menu will display.
+* User Login
+![](images/001PNG)
+* Election Commission Main Menu
+![](images/0002.PNG)
+* Party Main Menu
+![](images/003.PNG)
+* Citizen or Voter Main Menu
+![](images/004.PNG)
 
 ## Wrokflow
 
