@@ -28,7 +28,13 @@ Election commission is responsable to create constitution or define areas, a uni
 
 ## Wrokflow
 
-(Workflow)
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 
 ## Contributes
 
