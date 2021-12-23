@@ -5,9 +5,10 @@ class FileHandling
 {
   private:
     TEntity PObject;
+    string FileName;
   
   public:
-    FileHandling();
+    FileHandling(string fileName);
     void SetValue(TEntity entity);
     TEntity GetValue();
 };
